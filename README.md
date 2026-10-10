@@ -327,6 +327,8 @@ Potential next steps include:
 * **Expand testing:** Add automated tests for data pipelines, database operations, prediction inputs, and import-cost calculations.
 * **Improve deployment:** Add clear setup instructions, configuration validation, error handling, and reproducible deployment procedures.
 
+This project was deployed on render:
+https://japan-car-purchase-advisory-project-1.onrender.com/
 ##  Author
 Stacy Moraa 
 
